@@ -1,0 +1,22 @@
+.wrapper{
+    padding: 10px;
+}
+
+.submit-btn{
+    border: none;
+    padding: 5px 15px;
+    background: #333;
+    color: white;
+    cursor: pointer;
+}
+
+.comment-field{
+    width: 100%;
+    margin-bottom: 10px;;
+}
+
+.author-field{
+    width: 100%;
+    margin-bottom: 10px;
+}
+
